@@ -1,3 +1,5 @@
 Initial content
 Back in main branch to add something that I forgot during inital commit. But I am not sure yet wether this need to be added or not, yet but suddenly got issue on branch Feature1 that need to be fixed
 Now I am ready to commit this to main
+In this branch, I would like to work on this new feature
+The bug is fixed
